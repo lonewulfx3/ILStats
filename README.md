@@ -3,7 +3,7 @@ Have you ever wondered who got likes from who. Worry not Lone has done it. I mad
 With the data I collected I did 3 things per user. I made a pie chart that shows the distribution of all likes (no labels, too many people). A bar chart that shows the top 30 people that liked you (ranked by how much likes they've given you). I also did one thing. I calculated if someone was like boosted or not. This calculation is very simple. I only checked people with more than 100 likes (active +). From those people if the number 1 person that liked them was 25% of the likes, I count that as a like boost. If the 2 top people make up 40% of the total likes, that's a like boost. IF the 3 top people are 50% of the total likes... If the top 4 people are the top 60% likes... After that you're fine. Keep in mind that this is *probably* like boosted. Sometimes people are just friends ya know ¯\\\_(ツ)_/¯. Also like boosted people in the beginning of the forums can be hidden by the likes they collected after the like boost happened. To be honest at that point what does it even matter.
 
 ## HOW TO INTERPRET THE PIE CHART
-Sometimes you look at a pie chart and are amaze by the distribution. I urge you to keep in mind that people may have very few likes and because of that the pie chart may show some huge slices. Don't go spouting toxicity at these forum users because you interpreted the pie chart wrong.
+Sometimes you look at a pie chart and are amazed by the distribution. I urge you to keep in mind that people may have very few likes and because of that the pie chart may show some huge slices. Don't go spouting toxicity at these forum users because you interpreted the pie chart wrong.
 
 
 ## WHO WAS SCRAPED
