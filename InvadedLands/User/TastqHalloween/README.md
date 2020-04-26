@@ -1,4 +1,4 @@
-#TastqHalloween
+# TastqHalloween
 ## Table of people who liked
 Names | score
 --- | ---

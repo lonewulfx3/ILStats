@@ -1,4 +1,4 @@
-#Wuxule
+# Wuxule
 ## Table of people who liked
 Names | score
 --- | ---

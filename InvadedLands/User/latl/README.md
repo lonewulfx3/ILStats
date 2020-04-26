@@ -1,4 +1,4 @@
-#latl
+# latl
 ## Table of people who liked
 Names | score
 --- | ---

@@ -1,4 +1,4 @@
-#Joshmakey12
+# Joshmakey12
 ## Table of people who liked
 Names | score
 --- | ---

@@ -1,4 +1,4 @@
-#Rikhard_
+# Rikhard_
 ## Table of people who liked
 Names | score
 --- | ---

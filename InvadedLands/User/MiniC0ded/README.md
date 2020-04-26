@@ -1,4 +1,4 @@
-#MiniC0ded
+# MiniC0ded
 ## Table of people who liked
 Names | score
 --- | ---

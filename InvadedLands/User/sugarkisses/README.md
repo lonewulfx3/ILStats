@@ -1,4 +1,4 @@
-#sugarkisses
+# sugarkisses
 ## Table of people who liked
 Names | score
 --- | ---

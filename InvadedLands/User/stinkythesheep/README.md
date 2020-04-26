@@ -1,4 +1,4 @@
-#stinkythesheep
+# stinkythesheep
 ## Table of people who liked
 Names | score
 --- | ---

@@ -1,4 +1,4 @@
-#ql3c
+# ql3c
 ## Table of people who liked
 Names | score
 --- | ---

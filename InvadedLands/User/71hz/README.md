@@ -1,4 +1,4 @@
-#71hz
+# 71hz
 ## Table of people who liked
 Names | score
 --- | ---

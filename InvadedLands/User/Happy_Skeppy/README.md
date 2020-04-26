@@ -1,4 +1,4 @@
-#Happy_Skeppy
+# Happy_Skeppy
 ## Table of people who liked
 Names | score
 --- | ---

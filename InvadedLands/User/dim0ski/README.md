@@ -1,4 +1,4 @@
-#dim0ski
+# dim0ski
 ## Table of people who liked
 Names | score
 --- | ---

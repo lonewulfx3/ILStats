@@ -1,4 +1,4 @@
-#BabyKrypto
+# BabyKrypto
 ## Table of people who liked
 Names | score
 --- | ---

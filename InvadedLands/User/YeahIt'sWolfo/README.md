@@ -1,4 +1,4 @@
-#YeahIt'sWolfo
+# YeahIt'sWolfo
 ## Table of people who liked
 Names | score
 --- | ---

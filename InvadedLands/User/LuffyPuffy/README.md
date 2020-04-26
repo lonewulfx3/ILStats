@@ -1,4 +1,4 @@
-#LuffyPuffy
+# LuffyPuffy
 ## Table of people who liked
 Names | score
 --- | ---

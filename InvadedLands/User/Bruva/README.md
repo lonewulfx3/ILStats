@@ -1,4 +1,4 @@
-#Bruva
+# Bruva
 ## Table of people who liked
 Names | score
 --- | ---

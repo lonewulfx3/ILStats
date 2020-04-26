@@ -1,4 +1,4 @@
-#Lumbrub
+# Lumbrub
 ## Table of people who liked
 Names | score
 --- | ---

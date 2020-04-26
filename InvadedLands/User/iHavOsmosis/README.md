@@ -1,4 +1,4 @@
-#iHavOsmosis
+# iHavOsmosis
 ## Table of people who liked
 Names | score
 --- | ---

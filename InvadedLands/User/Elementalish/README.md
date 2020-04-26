@@ -1,4 +1,4 @@
-#Elementalish
+# Elementalish
 ## Table of people who liked
 Names | score
 --- | ---

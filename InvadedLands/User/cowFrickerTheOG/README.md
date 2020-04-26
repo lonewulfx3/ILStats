@@ -1,4 +1,4 @@
-#cowFrickerTheOG
+# cowFrickerTheOG
 ## Table of people who liked
 Names | score
 --- | ---

@@ -1,4 +1,4 @@
-#MM_TAKI
+# MM_TAKI
 ## Table of people who liked
 Names | score
 --- | ---

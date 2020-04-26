@@ -1,4 +1,4 @@
-#JJ0502
+# JJ0502
 ## Table of people who liked
 Names | score
 --- | ---

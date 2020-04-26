@@ -1,4 +1,4 @@
-#Kobuto
+# Kobuto
 ## Table of people who liked
 Names | score
 --- | ---

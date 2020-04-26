@@ -1,4 +1,4 @@
-#BabyKuba
+# BabyKuba
 ## Table of people who liked
 Names | score
 --- | ---

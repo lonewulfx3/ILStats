@@ -1,4 +1,4 @@
-#LukeLovesCandy
+# LukeLovesCandy
 ## Table of people who liked
 Names | score
 --- | ---

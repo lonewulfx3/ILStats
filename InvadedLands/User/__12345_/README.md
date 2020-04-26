@@ -1,4 +1,4 @@
-#__12345_
+# __12345_
 ## Table of people who liked
 Names | score
 --- | ---

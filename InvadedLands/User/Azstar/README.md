@@ -1,4 +1,4 @@
-#Azstar
+# Azstar
 ## Table of people who liked
 Names | score
 --- | ---

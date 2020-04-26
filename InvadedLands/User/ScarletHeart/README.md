@@ -1,4 +1,4 @@
-#ScarletHeart
+# ScarletHeart
 ## Table of people who liked
 Names | score
 --- | ---

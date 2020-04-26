@@ -1,4 +1,4 @@
-#CRIP CRUNCHERS
+# CRIP CRUNCHERS
 ## Table of people who liked
 Names | score
 --- | ---

@@ -1,4 +1,4 @@
-#spo0ky_craigy
+# spo0ky_craigy
 ## Table of people who liked
 Names | score
 --- | ---

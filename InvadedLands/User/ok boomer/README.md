@@ -1,4 +1,4 @@
-#ok boomer
+# ok boomer
 ## Table of people who liked
 Names | score
 --- | ---

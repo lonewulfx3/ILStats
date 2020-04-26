@@ -1,4 +1,4 @@
-#G3cd_
+# G3cd_
 ## Table of people who liked
 Names | score
 --- | ---

@@ -1,4 +1,4 @@
-#FortyFour
+# FortyFour
 ## Table of people who liked
 Names | score
 --- | ---

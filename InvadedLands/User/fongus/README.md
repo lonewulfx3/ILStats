@@ -1,4 +1,4 @@
-#fongus
+# fongus
 ## Table of people who liked
 Names | score
 --- | ---

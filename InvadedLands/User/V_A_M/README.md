@@ -1,4 +1,4 @@
-#V_A_M
+# V_A_M
 ## Table of people who liked
 Names | score
 --- | ---

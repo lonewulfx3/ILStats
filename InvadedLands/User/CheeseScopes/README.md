@@ -1,4 +1,4 @@
-#CheeseScopes
+# CheeseScopes
 ## Table of people who liked
 Names | score
 --- | ---

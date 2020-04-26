@@ -1,4 +1,4 @@
-#Redot
+# Redot
 ## Table of people who liked
 Names | score
 --- | ---

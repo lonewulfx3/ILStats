@@ -1,4 +1,4 @@
-#SmoothVibes
+# SmoothVibes
 ## Table of people who liked
 Names | score
 --- | ---

@@ -1,4 +1,4 @@
-#ToxicalJolt
+# ToxicalJolt
 ## Table of people who liked
 Names | score
 --- | ---

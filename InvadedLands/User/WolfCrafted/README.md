@@ -1,4 +1,4 @@
-#WolfCrafted
+# WolfCrafted
 ## Table of people who liked
 Names | score
 --- | ---

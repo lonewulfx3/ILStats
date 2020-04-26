@@ -1,4 +1,4 @@
-#JamesJustJoined
+# JamesJustJoined
 ## Table of people who liked
 Names | score
 --- | ---

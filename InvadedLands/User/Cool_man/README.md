@@ -1,4 +1,4 @@
-#Cool_man
+# Cool_man
 ## Table of people who liked
 Names | score
 --- | ---

@@ -1,4 +1,4 @@
-#Toast
+# Toast
 ## Table of people who liked
 Names | score
 --- | ---

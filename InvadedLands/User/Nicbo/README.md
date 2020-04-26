@@ -1,4 +1,4 @@
-#Nicbo
+# Nicbo
 ## Table of people who liked
 Names | score
 --- | ---

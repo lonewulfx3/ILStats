@@ -1,4 +1,4 @@
-#Akira
+# Akira
 ## Table of people who liked
 Names | score
 --- | ---

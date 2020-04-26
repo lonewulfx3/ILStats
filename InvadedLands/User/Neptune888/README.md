@@ -1,4 +1,4 @@
-#Neptune888
+# Neptune888
 ## Table of people who liked
 Names | score
 --- | ---

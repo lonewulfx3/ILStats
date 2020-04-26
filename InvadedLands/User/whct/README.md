@@ -1,4 +1,4 @@
-#whct
+# whct
 ## Table of people who liked
 Names | score
 --- | ---

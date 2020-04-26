@@ -1,4 +1,4 @@
-#AmazingAlpha
+# AmazingAlpha
 ## Table of people who liked
 Names | score
 --- | ---

@@ -1,4 +1,4 @@
-#1pick
+# 1pick
 ## Table of people who liked
 Names | score
 --- | ---

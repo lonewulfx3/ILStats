@@ -1,4 +1,4 @@
-#C0NTACTS
+# C0NTACTS
 ## Table of people who liked
 Names | score
 --- | ---

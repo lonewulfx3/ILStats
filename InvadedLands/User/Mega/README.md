@@ -1,4 +1,4 @@
-#Mega
+# Mega
 ## Table of people who liked
 Names | score
 --- | ---

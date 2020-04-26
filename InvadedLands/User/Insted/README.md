@@ -1,4 +1,4 @@
-#Insted
+# Insted
 ## Table of people who liked
 Names | score
 --- | ---

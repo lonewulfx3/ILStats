@@ -1,4 +1,4 @@
-#McDonalds
+# McDonalds
 ## Table of people who liked
 Names | score
 --- | ---

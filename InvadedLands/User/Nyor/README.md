@@ -1,4 +1,4 @@
-#Nyor
+# Nyor
 ## Table of people who liked
 Names | score
 --- | ---

@@ -1,4 +1,4 @@
-#ThWa
+# ThWa
 ## Table of people who liked
 Names | score
 --- | ---

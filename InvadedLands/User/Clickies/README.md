@@ -1,4 +1,4 @@
-#Clickies
+# Clickies
 ## Table of people who liked
 Names | score
 --- | ---

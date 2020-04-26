@@ -1,4 +1,4 @@
-#Homiiz
+# Homiiz
 ## Table of people who liked
 Names | score
 --- | ---

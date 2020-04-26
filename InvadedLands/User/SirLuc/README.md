@@ -1,4 +1,4 @@
-#SirLuc
+# SirLuc
 ## Table of people who liked
 Names | score
 --- | ---

@@ -1,4 +1,4 @@
-#JoeMS10
+# JoeMS10
 ## Table of people who liked
 Names | score
 --- | ---

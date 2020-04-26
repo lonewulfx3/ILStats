@@ -1,4 +1,4 @@
-#Zeesgoツ
+# Zeesgoツ
 ## Table of people who liked
 Names | score
 --- | ---

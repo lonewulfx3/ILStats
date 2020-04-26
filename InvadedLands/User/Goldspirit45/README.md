@@ -1,4 +1,4 @@
-#Goldspirit45
+# Goldspirit45
 ## Table of people who liked
 Names | score
 --- | ---

@@ -1,4 +1,4 @@
-#riq0chet
+# riq0chet
 ## Table of people who liked
 Names | score
 --- | ---

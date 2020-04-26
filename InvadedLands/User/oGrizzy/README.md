@@ -1,4 +1,4 @@
-#oGrizzy
+# oGrizzy
 ## Table of people who liked
 Names | score
 --- | ---

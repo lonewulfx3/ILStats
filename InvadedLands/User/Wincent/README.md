@@ -1,4 +1,4 @@
-#Wincent
+# Wincent
 ## Table of people who liked
 Names | score
 --- | ---

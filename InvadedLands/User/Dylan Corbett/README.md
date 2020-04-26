@@ -1,4 +1,4 @@
-#Dylan Corbett
+# Dylan Corbett
 ## Table of people who liked
 Names | score
 --- | ---

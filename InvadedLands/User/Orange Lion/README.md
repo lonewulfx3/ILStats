@@ -1,4 +1,4 @@
-#Orange Lion
+# Orange Lion
 ## Table of people who liked
 Names | score
 --- | ---

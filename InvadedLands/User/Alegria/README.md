@@ -1,4 +1,4 @@
-#Alegria
+# Alegria
 ## Table of people who liked
 Names | score
 --- | ---

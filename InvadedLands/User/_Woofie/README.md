@@ -1,4 +1,4 @@
-#_Woofie
+# _Woofie
 ## Table of people who liked
 Names | score
 --- | ---

@@ -1,4 +1,4 @@
-#_Goomy
+# _Goomy
 ## Table of people who liked
 Names | score
 --- | ---

@@ -1,4 +1,4 @@
-#Auxies
+# Auxies
 ## Table of people who liked
 Names | score
 --- | ---

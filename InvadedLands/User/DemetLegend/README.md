@@ -1,4 +1,4 @@
-#DemetLegend
+# DemetLegend
 ## Table of people who liked
 Names | score
 --- | ---

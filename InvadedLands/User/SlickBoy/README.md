@@ -1,4 +1,4 @@
-#SlickBoy
+# SlickBoy
 ## Table of people who liked
 Names | score
 --- | ---

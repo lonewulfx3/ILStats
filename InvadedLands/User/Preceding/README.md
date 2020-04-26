@@ -1,4 +1,4 @@
-#Preceding
+# Preceding
 ## Table of people who liked
 Names | score
 --- | ---

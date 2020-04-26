@@ -1,4 +1,4 @@
-#Flightz
+# Flightz
 ## Table of people who liked
 Names | score
 --- | ---
