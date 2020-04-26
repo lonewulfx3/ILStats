@@ -1,0 +1,46 @@
+#sadkai
+## Table of people who liked
+Names | score
+--- | ---
+69hd | 21
+casey | 20
+lovejaidy | 9
+TeunMC | 6
+goawayimhigh | 6
+V_A_M | 6
+kvids | 5
+mainlee175 | 4
+ash | 4
+JoeMS10 | 3
+lovebailey | 3
+velo | 3
+Akatusuki | 2
+OrionPvP | 2
+Nicbo | 2
+Azstar | 2
+Jedadah | 2
+panicbrendon | 2
+Jaimss | 2
+Insted | 2
+Yuh | 2
+sadliar | 2
+GoogleSearches | 2
+katykat | 1
+_Anxxiety | 1
+evites | 1
+Ramen | 1
+Weirdillusions | 1
+Syd | 1
+Sora | 1
+KittyKitty69 | 1
+IcyHotHead | 1
+Hawkeye Hollow | 1
+HaederTheToast | 1
+GlitchyCube | 1
+FitzyPvP | 1
+Erfe | 1
+DreamLogic | 1
+Damki | 1
+Cool_man | 1
+AzMaaX | 1
+wheresmymommy | 1

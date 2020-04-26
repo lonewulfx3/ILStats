@@ -1,0 +1,14 @@
+#orve
+## Table of people who liked
+Names | score
+--- | ---
+Foxify | 1
+IcyHotHead | 1
+MM_TAKI | 1
+Momentum | 1
+Neptune888 | 1
+Rukuku 137 | 1
+Sasuke | 1
+ash | 1
+democraticparty | 1
+warper | 1

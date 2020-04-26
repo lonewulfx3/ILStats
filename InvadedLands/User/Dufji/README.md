@@ -1,0 +1,37 @@
+#Dufji
+## Table of people who liked
+Names | score
+--- | ---
+lovebailey | 3
+evites | 3
+SpaceUnit | 3
+King8ight | 2
+dog | 2
+Mattew | 2
+Lynds | 2
+Serpent0406 | 2
+JJ0502 | 1
+System64 | 1
+hemisemicolon | 1
+Chik3n | 1
+DreamLogic | 1
+Wqlk | 1
+WasabiRaven | 1
+Unnamedguy | 1
+UnholyCow | 1
+UncleJimmy_yt | 1
+TomShef | 1
+TheGreatCheeto | 1
+Ssnackss | 1
+JoeMS10 | 1
+FortnitePlayer | 1
+SkittlesTM | 1
+Skaupe | 1
+BlackVelvet666 | 1
+Nowy | 1
+FrostyyMC | 1
+Masterburn | 1
+Honor | 1
+Leafy | 1
+IcyHotHead | 1
+Bities | 1

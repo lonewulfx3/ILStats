@@ -1,0 +1,10 @@
+#TechyGaming
+## Table of people who liked
+Names | score
+--- | ---
+Ant | 1
+BlackVelvet666 | 1
+Decay | 1
+Garvey | 1
+JamesJustJoined | 1
+casey | 1

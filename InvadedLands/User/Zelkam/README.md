@@ -1,0 +1,16 @@
+#Zelkam
+## Table of people who liked
+Names | score
+--- | ---
+AgentPanda_ | 2
+Connor | 2
+AkuroPlayz | 1
+BabyKrypto | 1
+Mega | 1
+Seb | 1
+TehNeon | 1
+UncleJimmy_yt | 1
+katykat | 1
+pat_3 | 1
+realarnutis | 1
+vQuil | 1

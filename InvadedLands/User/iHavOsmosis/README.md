@@ -1,0 +1,33 @@
+#iHavOsmosis
+## Table of people who liked
+Names | score
+--- | ---
+1pick | 1
+Neptune888 | 1
+x0roa | 1
+sushi | 1
+succesfully | 1
+casey | 1
+badliar_ | 1
+XeroWins | 1
+V_A_M | 1
+TimTheNoName | 1
+Sander0410 | 1
+RainzOnYoutube | 1
+PapaGoofy | 1
+NonCreativ3 | 1
+Lumbrub | 1
+AloneTM | 1
+Kayloo | 1
+Karvainen | 1
+JayProLaser | 1
+Jaimss | 1
+Flured | 1
+Fahx | 1
+DerpDerpling | 1
+Dave | 1
+CrafterDaemon | 1
+ChilledWolf | 1
+CheezeGDS | 1
+AndyCrasher | 1
+x_Dragontiger_x | 1

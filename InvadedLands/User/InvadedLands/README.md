@@ -1,0 +1,56 @@
+#InvadedLands
+## Table of people who liked
+Names | score
+--- | ---
+1pick | 15
+dog | 9
+FortnitePlayer | 4
+Neptune888 | 4
+SkeppyCat | 4
+Sora | 3
+JoeMS10 | 3
+Zyvra | 3
+Lumbrub | 3
+casey | 3
+ash | 2
+Spycy | 2
+Fudgie | 2
+JamesJustJoined | 2
+evites | 2
+Nicki | 2
+V_A_M | 1
+VestaLT | 1
+WillyTPlayz | 1
+Zigelz | 1
+ameliaaaaa | 1
+Audio_Brownie | 1
+cSyre | 1
+Tekoh | 1
+global | 1
+kaylie | 1
+kvids | 1
+latl | 1
+lovebailey | 1
+sushi | 1
+UncleJimmy_yt | 1
+Camila | 1
+Taqhesiquan | 1
+Swirls | 1
+FitzyPvP | 1
+BlueSnowBallMic | 1
+Golden_ | 1
+GoogleSearches | 1
+Hawkeye Hollow | 1
+JoinMolten | 1
+McDucc | 1
+Azstar | 1
+Nicbo | 1
+Orange Lion | 1
+OrionPvP | 1
+Ramen | 1
+Redot | 1
+Rikhard_ | 1
+AB987 | 1
+Smurf | 1
+Dqniel | 1
+universalt | 1

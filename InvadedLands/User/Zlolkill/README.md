@@ -1,0 +1,33 @@
+#Zlolkill
+## Table of people who liked
+Names | score
+--- | ---
+Redot | 2
+1pick | 1
+Subsy | 1
+nuhmb | 1
+hamoka | 1
+dog | 1
+cSyre | 1
+ash | 1
+_Goomy | 1
+Xyst_ | 1
+Xelvy | 1
+Wqlk | 1
+Vatrea | 1
+Toast | 1
+Th3ftx | 1
+S0V | 1
+AirDog46 | 1
+Ramen | 1
+Neptune888 | 1
+Lumbrub | 1
+Laylim | 1
+Lauren | 1
+Kt_The_Awesome | 1
+KittyKitty69 | 1
+JoeMS10 | 1
+Hamster | 1
+FortnitePlayer | 1
+EmersonVAE | 1
+universalt | 1

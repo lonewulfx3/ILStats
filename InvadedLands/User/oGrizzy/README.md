@@ -1,0 +1,47 @@
+#oGrizzy
+## Table of people who liked
+Names | score
+--- | ---
+IcyHotHead | 4
+OrionPvP | 4
+popthetags | 3
+Neptune888 | 3
+evites | 3
+JoeMS10 | 2
+dog | 2
+Weirdillusions | 2
+aiht | 2
+casey | 2
+IceWolf | 2
+italicfan69 | 2
+MaNemEvan | 2
+Wqlk | 1
+d_rodrigo | 1
+Aeqz | 1
+Unnamedguy | 1
+hamoka | 1
+krovic | 1
+lovebailey | 1
+lovejaidy | 1
+sSkiez | 1
+velo | 1
+V_A_M | 1
+SkittlesTM | 1
+UncleJimmy_yt | 1
+Stradium | 1
+Caleux (Lucas) | 1
+Captmarshmellow | 1
+Clickies | 1
+DaTurTelGod1 | 1
+FrostyyMC | 1
+Insted | 1
+ItsYaBoiAlex14 | 1
+Jacob | 1
+Kayloo | 1
+MagnitoIsAGod | 1
+RyanCantPvP | 1
+Serpent0406 | 1
+Simplility | 1
+BlankSpaceHere | 1
+SpaceUnit | 1
+xSquid3997 | 1

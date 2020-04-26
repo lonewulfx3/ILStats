@@ -1,0 +1,32 @@
+#Skethu
+## Table of people who liked
+Names | score
+--- | ---
+1pick | 6
+OrionPvP | 4
+casey | 3
+V_A_M | 3
+BlueSnowBallMic | 2
+evites | 2
+_Anxxiety | 2
+Lumbrub | 2
+Weirdillusions | 2
+BabyKrypto | 2
+Swirls | 2
+Stardust | 1
+lovebailey | 1
+embox | 1
+adam | 1
+WolfCrafted | 1
+Seb | 1
+SpaceUnit | 1
+Redot | 1
+Nicbo | 1
+MatiasCL | 1
+JamesJustJoined | 1
+Jaimss | 1
+Gusuu | 1
+GoogleSearches | 1
+FrostyyMC | 1
+Botwave | 1
+sadliar | 1

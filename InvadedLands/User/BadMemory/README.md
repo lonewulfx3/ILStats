@@ -1,0 +1,32 @@
+#BadMemory
+## Table of people who liked
+Names | score
+--- | ---
+ash | 5
+Xoads | 5
+sadliar | 4
+Momentum | 4
+lovebailey | 3
+Weirdillusions | 3
+evites | 2
+LonelyOrphans | 2
+Stardust | 1
+casey | 1
+borjov | 1
+belle | 1
+Yawnless | 1
+Twisst | 1
+Subsy | 1
+1pick | 1
+Booplayz | 1
+Pettle | 1
+Nicbo | 1
+NestaDiePie | 1
+Neptune888 | 1
+LuffyPuffy | 1
+Jesting | 1
+JamesJustJoined | 1
+IcyHotHead | 1
+GoldenMurphyMan | 1
+DabOnDatCheese | 1
+Sariel | 1

@@ -1,0 +1,43 @@
+#WolfCrafted
+## Table of people who liked
+Names | score
+--- | ---
+frostyneedshelp | 5
+JamesJustJoined | 4
+Tocket | 3
+hamoka | 2
+Seqsons | 2
+Neptune888 | 2
+V_A_M | 2
+ItsWitherMC | 2
+Azstar | 1
+RoneCraft | 1
+Subsy | 1
+TeunMC | 1
+VitoZD | 1
+RespectlesGirl! | 1
+Xyst_ | 1
+Yawnless | 1
+casey | 1
+dog | 1
+e_ic | 1
+xRochy | 1
+RexizX | 1
+Pettle | 1
+Pezza200 | 1
+Gusuu | 1
+Benjiram | 1
+BlueSnowBallMic | 1
+Caleux (Lucas) | 1
+Candi | 1
+DaDonut | 1
+EmberAydin | 1
+HyperFlames | 1
+BabyKrypto | 1
+IsaacThePenguin | 1
+MateoDoge | 1
+Monit0r | 1
+Mqzen | 1
+Nicki | 1
+NonCreativ3 | 1
+xd_llamaninja | 1
