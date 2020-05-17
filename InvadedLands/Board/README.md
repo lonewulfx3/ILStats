@@ -1,5 +1,5 @@
 # Invadedlands forums leaderboards
-Name | Reactions | Posts | Reaction to post ratio
+Name | Posts | Reactions | Reaction to post ratio
 --- | --- | --- | ---
 Mega | 137 | 702 | 5.124087591240876
 TehNeon | 223 | 479 | 2.1479820627802693
